@@ -1,0 +1,7 @@
+StudentID,Assignment,Score,MaxScore
+301,CNN Image Classifier,90,100
+302,CNN Image Classifier,86,100
+303,CNN Image Classifier,93,100
+301,RNN Sequence Lab,82,100
+302,RNN Sequence Lab,88,100
+303,RNN Sequence Lab,79,100

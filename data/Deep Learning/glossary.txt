@@ -1,0 +1,11 @@
+Deep Learning Glossary
+
+Epoch: One complete pass through the entire training dataset during model training.
+
+Dropout: A regularization technique that randomly deactivates a fraction of neurons during training to reduce overfitting.
+
+Batch Normalization: A technique that normalizes layer inputs to stabilize and accelerate training.
+
+Vanishing Gradient: A problem in deep networks where gradients become extremely small during backpropagation, slowing or halting learning in early layers.
+
+Transfer Learning: A technique where a model trained on one task is reused as the starting point for a model on a related task.

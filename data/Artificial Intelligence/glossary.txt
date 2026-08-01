@@ -1,0 +1,11 @@
+AI Glossary
+
+Agent: An entity that perceives its environment through sensors and acts upon it through actuators.
+
+Heuristic: A technique that helps an algorithm find a good-enough solution faster, without guaranteeing optimality.
+
+Knowledge Base: A structured collection of facts and rules used by an expert system to make inferences.
+
+Natural Language Processing (NLP): A branch of AI focused on enabling machines to understand and generate human language.
+
+Reinforcement Learning: A learning paradigm in which an agent learns to make decisions by receiving rewards or penalties for its actions.
